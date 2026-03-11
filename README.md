@@ -9,8 +9,8 @@ While the source code for these projects is proprietary, I have provided technic
 ## MetroPacer | Running App for Apple Watch and iPhone
 *The ultimate running companion for Apple Watch & iPhone.*
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/acdffffd-d49e-486a-a9ce-ba3a36d51955" width="150" alt="MetroPacer Apple Watch" hspace="50">
-  <img src="https://github.com/user-attachments/assets/906575ae-ee7f-4d54-9676-4b3dc17efd6b" width="200" alt="MetroPacer iPhone" hspace="50">
+  <img src="https://github.com/user-attachments/assets/71ca4af0-4324-4e3a-b336-a7113d7cb20d" width="150" alt="MetroPacer Apple Watch" hspace="50">
+  <img src="https://github.com/user-attachments/assets/bbe95e57-4355-4daa-b94b-d8ba948d4d6c" width="200" alt="MetroPacer iPhone" hspace="50">
 </p>
 
 **MetroPacer** is an "offline-first" fitness application designed to provide real-time tracking of pace, cadence, heart rate, and distance. It allows runners to hit specific goals through guided workouts with spoken feedback.
@@ -28,7 +28,7 @@ While the source code for these projects is proprietary, I have provided technic
 ## Diffraction | Image Editor
 *Professional Image Editor for macOS.*
 <p align="center">
-<img width="800" alt="diffraction-main-window-brush-tool-2-1184" src="https://github.com/user-attachments/assets/b340ffd7-6479-4e18-b302-b66f120e1843" alt="Diffraction"/>
+<img width="800" alt="diffraction-main-window-brush-tool" src="https://github.com/user-attachments/assets/5345f79e-7e7d-4791-ad1a-a39177792754" alt="Diffraction | Image Editor"/>
 </p>
 
 **Diffraction** is a comprehensive image editing suite tailored for creative professionals. It features a custom image processing core capable of handling complex compositions with layers, masks, and AI-driven tools.
