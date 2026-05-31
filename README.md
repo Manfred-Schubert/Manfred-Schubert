@@ -45,9 +45,9 @@ While the source code for these projects is proprietary, I have provided technic
 ---
 
 ## Technical Skills
-* **Languages:** Swift, Objective-C
+* **Languages:** Swift, Kotlin, Objective-C
 * **Frameworks:** SwiftUI, AppKit, UIKit, WatchKit, Combine, Core Data, HealthKit, Core Image
-* **Tools:** Xcode, Git, XCTest (Unit & UI Testing)
+* **Tools:** Xcode, Git, XCTest (Unit & UI Testing), IntelliJ IDEA
 * **Focus:** Clean Architecture (MVVM/MVC), Performance Optimization, User Privacy
 
 ---
